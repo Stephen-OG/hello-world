@@ -1,2 +1,2 @@
 # hello-world
-learn how to use git
+I'm just getting started to manage and maintain code
